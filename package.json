@@ -1,0 +1,8 @@
+{
+  "name": "smol-evm",
+  "type": "module",
+  "module": "src/index.ts",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
